@@ -1,3 +1,7 @@
+#########################################################################################
+# Script to send email to Active Directory users when their password is about to expiry #
+#########################################################################################
+
 ####### change only these envs ####################
 
 $Company = # your company name
